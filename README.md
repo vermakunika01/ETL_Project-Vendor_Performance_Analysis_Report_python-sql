@@ -44,7 +44,11 @@ The goal of this analysis is to:
 
 
 ## Learnings from this project
-Check top vendors by Sales
+- **End-to-End ETL (Extract, Transform, Load):** Built a full ETL workflow, extracting raw CSV files, cleaning and transforming them, and loading structured data into a relational database.
+  
+- **Wholesale vs Retail Pricing Dynamics:** Learned how pricing, discounts, markups, freight, and taxes flow through a wholesale-to-retail business model and how they affect final profitability.
+  
+- **SQL for Aggregation & Performance Optimization:** Used SQL CTEs, GROUP BY aggregation, and filtering to optimize large transformations before loading into Pandas.
  
 ## Author & Contact
 Kunika Verma
