@@ -2,7 +2,7 @@
 Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL and Python
 
 ## Business Problem Statement
-Vendors purchase products from us and resell them in their markets. Effective inventory and sales management are critical for optimizing profitability in this industry. Our company needsto ensure that we are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.
+Vendors purchase products from us and resell them in their markets. Effective inventory and sales management are critical for optimizing profitability in this industry. Our company needs to ensure that we are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.
 The goal of this analysis is to:
 - Bring together messy, real-world data into a single relational framework
 - Analyze pricing behaviour, vendor patterns, profitability, and product movement
